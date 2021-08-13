@@ -1,5 +1,9 @@
 import React from 'react';
 
+import {
+  Link
+} from "react-router-dom";
+
 function Header(){
     return (
         <div class="header">
@@ -19,11 +23,12 @@ function Header(){
                             <div class="limit-box">
                                 <nav class="main-menu">
                                     <ul class="menu-area-main">
-                                        <li class="active"> <a href="index.html">Home</a></li>
-                                        <li> <a href="about.html">About</a></li>
-                                        <li><a href="brand.html">Brand</a></li>
-                                        <li><a href="special.html">Specials</a></li>
-                                        <li><a href="contact.html">Contact Us</a></li>
+                                        <li class="active"><Link to="/">Home</Link></li>
+                                        <li><Link to="/about">About</Link></li>
+                                        {/* <li><a href="brand.html">Brand</a></li>
+                                        <li><a href="special.html">Specials</a></li> */}
+                                        <li><Link to="/contact">Contact</Link></li>
+                                        <li><Link to="/products">Products</Link></li>
                                         <li class="last">
                                             <a href="#"><img src="assets/images/search_icon.png" alt="icon" /></a>
                                         </li>
