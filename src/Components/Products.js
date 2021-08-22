@@ -36,7 +36,7 @@ const Products = () => {
 
                                 {
                                     items.map((ele) => {
-                                        let {  name, image, description, price } = ele;
+                                        let {  dname, image, description, price } = ele;
 
                                         return (
                                             <div className="col-12 col-md-6 col-lg-6 col-xl-4 my-5 hell">
@@ -49,7 +49,7 @@ const Products = () => {
                                                     {/* item desc */}
                                                     <div className="col-12 col-md-12 col-lg-8">
                                                         <div className="pt-4 pb-3">
-                                                            <h1>{name}</h1>
+                                                            <h1>{dname}</h1>
                                                             <p>{description}</p>
                                                         </div>
                                                         <div>

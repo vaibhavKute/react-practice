@@ -1,0 +1,28 @@
+{
+  "devices": [
+    {
+      "id": 1,
+      "image": "https://rukminim1.flixcart.com/image/832/832/kmds4nk0/mobile/w/x/h/note-10-pro-max-mzb08wqxc2-redmi-original-imagfatzvsynfmau.jpeg?q=70",
+      "dname": "Redmi Note 10 Pro Max",
+      "category": "redmi",
+      "price": "21000",
+      "description": "Get ready to steal glances wherever you go with the Mi 11 Lite smartphone. Featuring a slim and lightweight construction"
+    },
+    {
+      "id": 2,
+      "image": "https://rukminim1.flixcart.com/image/416/416/kehfi4w0/mobile/g/9/h/mi-redmi-9-lpddr4x-original-imafv5kypkgfqupf.jpeg?q=70",
+      "dname": "Redmi 9 (Sky Blue, 128 GB)  (4 GB RAM)",
+      "category": "redmi",
+      "price": "20000",
+      "description": "13+2MP Rear camera with AI Portrait, AI scene recognition, HDR, Pro mode | 5MP front facing camCera16.58"
+    },
+    {
+      "image": "https://rukminim1.flixcart.com/image/416/416/ksgehzk0/mobile/x/q/1/galaxy-a03s-sm-a037fzbgins-sm-a037fzb6ins-samsung-original-imag6ygnvtkhgjzg.jpeg?q=70",
+      "dname": "SAMSUNG Galaxy A03s (Blue, 64 GB)  (4 GB RAM)",
+      "category": "samsung",
+      "price": "14500",
+      "description": "\nTriple Rear Camera Setup: 13MP Main Camera (f/2.2) + 2MP Macro Camera (f/2.4) + 2MP Depth Camera (f/2.4)",
+      "id": 3
+    }
+  ]
+}
